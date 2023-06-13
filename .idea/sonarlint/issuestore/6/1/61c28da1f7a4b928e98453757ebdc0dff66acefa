@@ -1,0 +1,32 @@
+
+s
+java:S1104"WMake TXT_USUARIO a static final constant or non-public and provide accessors if needed.(à¿³i8¥‡æ‰‹1
+z
+java:S1104	"XMake TXT_PASSWORD a static final constant or non-public and provide accessors if needed.(ï©š”şÿÿÿÿ8¥‡æ‰‹1
+w
+java:S1104"UMake BTN_LOGIN a static final constant or non-public and provide accessors if needed.(šÜúÿÿÿÿÿ8¥‡æ‰‹1
+{
+java:S1104"YMake LBL_PRODUCTOS a static final constant or non-public and provide accessors if needed.(÷·ĞĞøÿÿÿÿ8®ğÎ‹‹1
+M
+java:S1444"1Make this "public static TXT_USUARIO" field final(à¿³i8¦‡æ‰‹1
+T
+java:S1444	"2Make this "public static TXT_PASSWORD" field final(ï©š”şÿÿÿÿ8¦‡æ‰‹1
+Q
+java:S1444"/Make this "public static BTN_LOGIN" field final(šÜúÿÿÿÿÿ8¦‡æ‰‹1
+U
+java:S1444"3Make this "public static LBL_PRODUCTOS" field final(÷·ĞĞøÿÿÿÿ8®ğÎ‹‹1
+r
+java:S3008"VRename this field "TXT_USUARIO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à¿³i8¨‡æ‰‹1
+y
+java:S3008	"WRename this field "TXT_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï©š”şÿÿÿÿ8©‡æ‰‹1
+v
+java:S3008"TRename this field "BTN_LOGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÜúÿÿÿÿÿ8©‡æ‰‹1
+z
+java:S3008"XRename this field "LBL_PRODUCTOS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷·ĞĞøÿÿÿÿ8°ğÎ‹‹1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(şò†ÿıÿÿÿÿ8­‡æ‰‹1
+Y
+java:S3252
+"<Use static access with "org.openqa.selenium.By" for "xpath".(¢Ûğ¹8Á€£‹‹1
+^
+java:S3252"<Use static access with "org.openqa.selenium.By" for "xpath".(îï´ßÿÿÿÿÿ8µ¶Ï‹‹1
